@@ -1,0 +1,23 @@
+{
+  "name": "ng-download",
+  "version": "0.0.1",
+  "homepage": "https://github.com/saulolozano/ng-download",
+  "authors": [
+    "Saulo Lozano <sslozano.7@gmail.com>"
+  ],
+  "description": "Simple AngularJS Directive used to trigger an asynchronous-like file download",
+  "main": "ng-download.js",
+  "keywords": [
+    "download",
+    "angularjs",
+    "directive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
