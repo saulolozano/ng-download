@@ -19,8 +19,6 @@ angular.module('app', ['ngDownload']);
 
 - Implement the directive in your html:
 
-
-Draggable usage:
 ```html
 <button ng-download="{{urlToPublicFile}}" params="optionalParameters">Download</button>
 ```
@@ -28,5 +26,5 @@ Draggable usage:
 * `urlToPublicFile` has to be an url to a public file
 * `params` (object) is optional. You can add all the query strings parameters you wish to add to the url
 
-
+Done!
 
